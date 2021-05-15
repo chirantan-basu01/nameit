@@ -1,10 +1,10 @@
 # Name It
 
-A very cooooooool project!!
+Sometimes we are confused as to what name should we give to your app/domain-name or any other thing.And to solve that problem this web-app will help you.If you type any keyword related to the topic/thing you want the name for, it will provide the name with loadssssss of suggestions. Just give it a try and see the magic by yourself.
 
 # Live Demo
 
-For seeing the live Demo click here-> https://festive-lamport-88e803.netlify.app/
+Hosted Project: https://festive-lamport-88e803.netlify.app/
 
 ## Resources
 
